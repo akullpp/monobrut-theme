@@ -1,7 +1,7 @@
 # Monobrut
 
-A dark, high-contrast theme for [Zed](https://zed.dev/) with crisp borders and
-a compact six-color accent palette.
+A dark, high-contrast theme for [Zed](https://zed.dev/) with concrete-black
+surfaces, crisp borders, and a classic Monokai-inspired syntax palette.
 
 ![Monobrut theme in Zed with a Go service, project navigation, and terminal](assets/monobrut.png)
 
@@ -23,6 +23,11 @@ directory.
 
 The theme lives in [`themes/monobrut.json`](themes/monobrut.json) and follows
 Zed's [theme schema](https://zed.dev/schema/themes/v0.2.0.json).
+
+## Attribution
+
+The palette and syntax conventions are adapted from Visual Studio Code's
+classic Monokai theme. See [Third-Party Notices](THIRD_PARTY_NOTICES.md).
 
 ## License
 
