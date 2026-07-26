@@ -1,0 +1,29 @@
+# Monobrut
+
+A dark, high-contrast theme for [Zed](https://zed.dev/) with crisp borders and
+a compact six-color accent palette.
+
+![Monobrut theme in Zed](assets/monobrut.jpg)
+
+## Installation
+
+Once published in the Zed extension registry:
+
+1. Open Zed Extensions with `ctrl-shift-x`.
+2. Search for **Monobrut** and install it.
+3. Open the theme selector with `cmd-k cmd-t` on macOS or `ctrl-k ctrl-t` on
+   Linux and Windows.
+4. Select **Monobrut**.
+
+To try the development version, clone this repository and run
+`zed: install dev extension` from Zed's command palette, then select the cloned
+directory.
+
+## Development
+
+The theme lives in [`themes/monobrut.json`](themes/monobrut.json) and follows
+Zed's [theme schema](https://zed.dev/schema/themes/v0.2.0.json).
+
+## License
+
+[MIT](LICENSE)
