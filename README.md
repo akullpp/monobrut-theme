@@ -9,8 +9,8 @@ surfaces, crisp borders, and a classic Monokai-inspired syntax palette.
 
 - **Monobrut** is the default: a warmer palette deliberately close in feel to
   Monokai Pro, using independently chosen colors.
-- **Monobrut Breuer** is the hard brutalist alternative: stepped concrete-black
-  surfaces, uncompromising white borders, blocky active states, and exposed
+- **Monobrut Breuer** is the hard brutalist alternative: one concrete-black
+  field, uncompromising white borders, blocky active states, and exposed
   signal colors. It is named for brutalist architect Marcel Breuer.
 
 ## Installation
