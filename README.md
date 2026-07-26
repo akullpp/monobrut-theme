@@ -3,15 +3,16 @@
 A dark, high-contrast theme for [Zed](https://zed.dev/) with concrete-black
 surfaces, crisp borders, and a classic Monokai-inspired syntax palette.
 
-![Monobrut theme in Zed with a Go service, project navigation, and terminal](assets/monobrut.png)
+**Default:** A warmer palette deliberately close in feel to Monokai Pro, using
+independently chosen colors.
 
-## Themes
+![Monobrut default theme in Zed with a Go service, project navigation, and terminal](assets/monobrut.png)
 
-- **Monobrut** is the default: a warmer palette deliberately close in feel to
-  Monokai Pro, using independently chosen colors.
-- **Monobrut Breuer** is the hard brutalist alternative: one concrete-black
-  field, uncompromising white borders, blocky active states, and exposed
-  signal colors. It is named for brutalist architect Marcel Breuer.
+**Breuer:** The hard brutalist alternative: one concrete-black field,
+uncompromising white borders, blocky active states, and exposed signal colors.
+It is named for brutalist architect Marcel Breuer.
+
+![Monobrut Breuer theme in Zed with a Go service, project navigation, and terminal](assets/monobrut-breuer.png)
 
 ## Installation
 
