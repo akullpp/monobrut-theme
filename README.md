@@ -3,7 +3,7 @@
 A dark, high-contrast theme for [Zed](https://zed.dev/) with crisp borders and
 a compact six-color accent palette.
 
-![Monobrut theme in Zed with a Go service, project navigation, and terminal](assets/monobrut.jpg)
+![Monobrut theme in Zed with a Go service, project navigation, and terminal](assets/monobrut.png)
 
 ## Installation
 
