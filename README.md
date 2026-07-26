@@ -5,6 +5,12 @@ surfaces, crisp borders, and a classic Monokai-inspired syntax palette.
 
 ![Monobrut theme in Zed with a Go service, project navigation, and terminal](assets/monobrut.png)
 
+## Themes
+
+- **Monobrut** is the default: a warmer palette deliberately close in feel to
+  Monokai Pro, using independently chosen colors.
+- **Monobrut Dark** keeps the original concrete-black palette.
+
 ## Installation
 
 Once published in the Zed extension registry:
