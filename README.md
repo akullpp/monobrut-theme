@@ -1,14 +1,18 @@
 # Monobrut
 
-A dark, high-contrast brutalist theme for [Zed](https://zed.dev/) with concrete-black surfaces, crisp borders, and a Monokai-inspired syntax palette.
+A dark, high-contrast brutalist theme for [Zed](https://zed.dev/) with unified surfaces, crisp borders, and expressive signal colors.
 
-**Default:** A warmer palette.
+**Default:** Warm, balanced signal colors on a deep black field.
 
 ![Monobrut default theme in Zed with a Go service, project navigation, and terminal](assets/monobrut.png)
 
-**Breuer:** Hard brutalist alternative: one concrete-black field, uncompromising white borders, blocky active states, and exposed signal colors. It is named for brutalist architect Marcel Breuer.
+**Breuer:** Hard brutalism: one concrete-black field, uncompromising white structure, rust active states, and exposed signal colors. Named for brutalist architect Marcel Breuer.
 
 ![Monobrut Breuer theme in Zed with a Go service, project navigation, and terminal](assets/monobrut-breuer.png)
+
+**Säure:** Cold cyberpunk structure with cyan borders, acid-green interaction states, and a near-black field.
+
+![Monobrut Säure theme in Zed with a Go service, project navigation, and terminal](assets/monobrut-saure.png)
 
 ## Installation
 
